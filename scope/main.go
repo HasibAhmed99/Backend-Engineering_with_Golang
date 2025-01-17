@@ -33,10 +33,10 @@ import (
 
 		// variable "shadowing"
 		x := 32 
-		fmt.Println(x)  // redeclaring
+		fmt.Println(x)  
 
 		// package block x still the same
-		printMe() // since I redeclare
+		printMe() 
 
     furtherexplored.Fascinating()
 
@@ -44,7 +44,7 @@ import (
 		if z := 82; z > 50 {
 			fmt.Println(z)
 		}
-		// you cant access z here
+		// I cant access z here
 		// fmt.Println(z)
 
 
