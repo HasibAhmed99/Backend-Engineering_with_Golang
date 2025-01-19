@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"scope/furtherexplored"
+	"pratice5/scope/furtherexplored"
 )
 
 // the imported package "fmt"
