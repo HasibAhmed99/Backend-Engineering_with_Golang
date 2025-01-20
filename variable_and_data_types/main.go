@@ -19,7 +19,7 @@ func main ()  {
 
 } */
 
-// [Golang] - 009 => if... else and switch
+
 /*  package main
 
 import "fmt"
@@ -60,7 +60,6 @@ func main ()  {
 		}
 }	*/
 
-//[Golang]- 010
 
 /*  package main
 
@@ -79,7 +78,7 @@ add(5, 7)
 
  } 	*/
 
-// [Golang] -> 011 : function with return value and types
+
 /*	package main
 
 import "fmt"
@@ -107,7 +106,7 @@ func main () {
 	fmt.Println(q)
 }   */
 
-// [Golang] -> 012: more function examples
+//
 /* package main
 
 import "fmt"
@@ -140,7 +139,7 @@ func main() {
 
 } */
 
-// [Golang]-013 => Why function is needed
+
 /* 	package main
 
 import "fmt"
