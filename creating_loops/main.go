@@ -29,7 +29,7 @@ for {
 // continue 
 // takes you to the next iteration
 for i:= 0; i < 20; i++ {
-	if i%3 != 0 {
+	if i%2 != 0 {
 		continue
 	}
 	fmt.Println("counting even numbers: ", i)
